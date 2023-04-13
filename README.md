@@ -74,7 +74,7 @@ I hope I'll be working as a front end developer by the time you read this. 🙂<
 
 
 <div align="center">
-<img style="width: 32%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mirsmog&theme=tokyonight">
+<img style="width: 32%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mirsmog&theme=nerd">
 
 <img style="width: 32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mirsmog&theme=tokyonight">
 
