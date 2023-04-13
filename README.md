@@ -96,7 +96,7 @@ I hope I'll be working as a front end developer by the time you read this. 🙂<
 </a>
 <a href="https://t.me/zwine02" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=bluealt=Telegram style="margin-bottom: 5px;" />
-</a><a href="tyuchiev.frontend@gmail.com" target="_blank">
+</a><a href="https://mail.google.com/mail/u/?authuser=tyuchiev.frontend@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=bluealt=Telegram style="margin-bottom: 5px;" />
 </a>
 </div>
