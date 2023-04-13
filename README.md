@@ -67,7 +67,7 @@ I hope I'll be working as a front end developer by the time you read this. 🙂<
 ## Github Stats
 </br>
 <div align="center">
-<img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=Mirsmog&show_icons=true&hide_border=true&theme=tokyonught">
+<img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=Mirsmog&show_icons=true&hide_border=true&theme=tokyonight">
 <img  style="width: 48%"src="https://github-readme-streak-stats.herokuapp.com/?user=Mirsmog&hide_border=true&theme=tokyonight">
 </div>
 </br>
@@ -96,7 +96,7 @@ I hope I'll be working as a front end developer by the time you read this. 🙂<
 </a>
 <a href="https://t.me/zwine02" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=bluealt=Telegram style="margin-bottom: 5px;" />
-</a><a href="https://tyuchiev.frontend@gmail.com" target="_blank">
+</a><a href="tyuchiev.frontend@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=bluealt=Telegram style="margin-bottom: 5px;" />
 </a>
 </div>
