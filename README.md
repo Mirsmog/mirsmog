@@ -67,18 +67,18 @@ I hope I'll be working as a front end developer by the time you read this. 🙂<
 ## Github Stats
 </br>
 <div align="center">
-<img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=Mirsmog&show_icons=true&hide_border=true&theme=tokyonight">
-<img  style="width: 48%"src="https://github-readme-streak-stats.herokuapp.com/?user=Mirsmog&hide_border=true&theme=tokyonight">
+<img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=Mirsmog&show_icons=true&hide_border=true&theme=synthwave">
+<img  style="width: 48%"src="https://github-readme-streak-stats.herokuapp.com/?user=Mirsmog&hide_border=true&theme=synthwave">
 </div>
 </br>
 
 
 <div align="center">
-<img style="width: 32%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mirsmog&theme=nerd">
+<img style="width: 32%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mirsmog&theme=synthwave">
 
-<img style="width: 32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mirsmog&theme=tokyonight">
+<img style="width: 32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mirsmog&theme=synthwave">
 
-<img style="width: 32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mirsmog&theme=tokyonight">
+<img style="width: 32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mirsmog&theme=synthwave">
 </div>
 </br>
 </br>
