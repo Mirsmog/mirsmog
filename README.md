@@ -67,7 +67,7 @@ I hope I'll be working as a front end developer by the time you read this. 🙂<
 ## Github Stats
 </br>
 <div align="center">
-<img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=Mirsmog&show_icons=true&hide_border=true&theme=tokyonight">
+<img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=Mirsmog&show_icons=true&hide_border=true&theme=tokyonught">
 <img  style="width: 48%"src="https://github-readme-streak-stats.herokuapp.com/?user=Mirsmog&theme=tokyonight&hide_border=true">
 </div>
 </br>
