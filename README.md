@@ -1,12 +1,13 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 200px;" />
+</div>
+  
+ <h1 align="center">Hi there, I'm <a href="https://google.com/" target="_blank">Timur</a>, 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> a Frontend Web Developer 👨‍💻 working remotely since 2021 🚀</h1>
+  
   
 
-## I'm Timur, a Frontend Web Developer 👨‍💻 working remotely since 2021 🚀  
-  
-
-#### <div align="center">Hi all ✋, I am a novice developer 👨‍💻 I started my way as a web developer in 2022 and since then I have learned a lot and realized that I really like programming ❤️ and just learning 📚 something new now my main goal is to get a job and for this I still have a lot to do 💪.
+#### <div align="center">Hi ✋, I am a novice developer 👨‍💻 I started my way as a web developer in 2022 and since then I have learned a lot and realized that I really like programming ❤️ and just learning 📚 something new now my main goal is to get a job and for this I still have a lot to do 💪.
 I hope I'll be working as a front end developer by the time you read this. 🙂</div>  
   
 
@@ -61,6 +62,27 @@ I hope I'll be working as a front end developer by the time you read this. 🙂<
 <br/>  
 
 
+
+
+## Github Stats  
+[![codewars](https://www.codewars.com/users/PhantomCrunhTz/badges/large)](https://www.codewars.com/users/PhantomCrunhTz)   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirsmog&show_icons=true&hide_border=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mirsmog&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
+<div alig="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark" />
+</div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+<br/>  
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/Mirsmog" target="_blank">
@@ -68,14 +90,6 @@ I hope I'll be working as a front end developer by the time you read this. 🙂<
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirsmog&hide_border=true&layout=compact" align="left" />  
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mirsmog&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
 
