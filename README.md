@@ -8,8 +8,7 @@
 
 
 
-#### <div align="center">Hi ✋, I am a novice developer 👨‍💻 I started my way as a web developer in 2022 and since then I have learned a lot and realized that I really like programming ❤️ and just learning 📚 something new now my main goal is to get a job and for this I still have a lot to do 💪.
-I hope I'll be working as a front end developer by the time you read this. 🙂</div>
+#### <div align="center">Hi ✋, I am a novice developer 👨‍💻 I started my way as a web developer in 2022 and since then I have learned a lot and realized that I really like programming ❤️ and just learning 📚 something new now my main goal is to get a job and for this I still have a lot to do 💪.</div>
 
 
 <br/>
