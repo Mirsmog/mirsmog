@@ -86,8 +86,10 @@
 <img src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=bluealt=Telegram style="margin-bottom: 5px;" />
 </a>
 </div>
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Mirsmog&&style=flat-square" align="center" />
+<div align="center" style="margin-top:40px;">
+<br/>
+<br/>
+ 
+[![](https://visitcount.itsvg.in/api?id=mirsmog&icon=2&color=6)](https://visitcount.itsvg.in)
 </div>
+
