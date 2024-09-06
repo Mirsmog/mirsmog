@@ -1,6 +1,4 @@
-![snake animation](https://github.com/mirsmog/mirsmog/blob/output/github-contribution-grid-snake2.svg)
-![snake gif](https://github.com/mirsmog/mirsmog/blob/output/github-contribution-grid-snake.gif)
-<img src="https://raw.githubusercontent.com/mirsmog/mirsmog/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/mirsmog/mirsmog/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 
  <h1 align="">Hi there, I'm <a href="it'll be my portfolio site later" target="_blank">Timur</a>
