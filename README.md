@@ -6,7 +6,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/mirsmog/mirsmog/output/github-contribution-grid-snake.svg" style="min-width:1000px" width="100%"/>
 </picture>
  <h1 align="">Hi there, I'm <a href="it'll be my portfolio site later" target="_blank">Timur</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> a Software Engineer. </h1>
 
 
 
