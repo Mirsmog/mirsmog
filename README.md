@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/mirsmog/mirsmog/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/mirsmog/mirsmog/blob/output/github-contribution-grid-snake2.svg)
 </div>
 
  <h1 align="">Hi there, I'm <a href="it'll be my portfolio site later" target="_blank">Timur</a>
