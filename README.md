@@ -3,11 +3,11 @@
 </div>
 
  <h1 align="center">Hi there, I'm <a href="it'll be my portfolio site later" target="_blank">Timur</a>,
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> a Frontend Web Developer 👨‍💻</h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
 
-#### <div align="">An ordinary developer who enjoys coding. My main focuses are frontend and backend development, and I have an interest in computer science. I just enjoy the process and welcome new challenges. <br/>Let’s create something cool together! 🚀</div>
+#### <div align="">An ordinary developer who enjoys coding. My main focuses are frontend and backend development, and I have an interest in computer science. I just enjoy the process and welcome new challenges. <br/><br/>Let’s create something cool together! 🚀</div>
 
 
 <br/>
