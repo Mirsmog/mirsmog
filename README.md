@@ -7,7 +7,9 @@
 
 
 
-#### <div align="center">Hi ✋, I am a novice developer 👨‍💻 I started my way as a web developer in 2022 and since then I have learned a lot and realized that I really like programming ❤️ and just learning 📚 something new now my main goal is to get a job and for this I still have a lot to do 💪.</div>
+#### <div align="center">An ordinary developer who enjoys coding. My main focuses are frontend and backend development, and I have an interest in computer science. I just enjoy the process and welcome new challenges.
+
+Let’s create something cool together! 🚀</div>
 
 
 <br/>
