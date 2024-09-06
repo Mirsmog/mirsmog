@@ -7,9 +7,7 @@
 
 
 
-#### <div align="center">An ordinary developer who enjoys coding. My main focuses are frontend and backend development, and I have an interest in computer science. I just enjoy the process and welcome new challenges.
-
-Let’s create something cool together! 🚀</div>
+#### <div align="">An ordinary developer who enjoys coding. My main focuses are frontend and backend development, and I have an interest in computer science. I just enjoy the process and welcome new challenges. <br/>Let’s create something cool together! 🚀</div>
 
 
 <br/>
