@@ -4,6 +4,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mirsmog/mirsmog/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/mirsmog/mirsmog/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
+  <img src="https://wallpaperaccess.com/full/8351332.gif" style="width: 100%">
 </div>
  <h1 align="">Hi there, I'm <a href="it'll be my portfolio site later" target="_blank">Timur</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
