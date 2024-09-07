@@ -9,8 +9,8 @@
 
 
 
-#### <div align=""  style="font-size:0.5em;">Just enjoy coding. My main focuses are frontend and backend development, with a keen interest in computer science. I love the process and welcome new challenges.</div>
-<span>If you have an interesting project or idea, feel free to reach out—let’s create something cool together! 🚀</span>
+#### <div align=""  style="font-size:0.5em;">Just enjoy coding. My main focuses are frontend and backend development,<br/> with a keen interest in computer science. I love the process and welcome new challenges.</div>
+<span style="font-size:0.3em;">PS. If you have an interesting project or idea, feel free to reach out—let’s create something cool together! 🚀</span>
 
 
 <br/>
