@@ -37,7 +37,17 @@
 
 # 📊 GitHub Stats:
 <div align="">
-<!--START_SECTION:waka--> <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+```rust
+From: 10 August 2022 - To: 06 September 2024
+
+Total Time: 454 hrs 49 mins
+
+Other          169 hrs 48 mins >>>>>>>------------------   27.19 %
+```
+
+<!--END_SECTION:waka-->
 <img style="width: 32%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mirsmog&theme=react">
 <img style="width: 32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mirsmog&theme=react">
 <img style="width: 32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mirsmog&theme=react">
