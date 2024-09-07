@@ -62,11 +62,11 @@ JavaScript   22 mins         ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 </a>
  
 </div>
-<div align="center" style="margin-top:40px;">
+<div align="right" style="margin-top:40px;">
 <br/>
 <br/>
  
-[![](https://visitcount.itsvg.in/api?id=mirsmog&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mirsmog&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
 </div>
 
 </div>
