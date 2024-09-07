@@ -35,7 +35,7 @@
 
 
 
-# 📊 GitHub Stats:
+# 📊 Weekly coding:
 <div align="">
 <!--START_SECTION:waka-->
 
