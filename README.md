@@ -48,9 +48,6 @@ JavaScript   22 mins         ️⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 ```
 
 <!--END_SECTION:waka-->
-<img style="width: 32%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mirsmog&theme=react">
-<img style="width: 32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mirsmog&theme=react">
-<img style="width: 32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mirsmog&theme=react">
 </div>
 </br>
 </br>
