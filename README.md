@@ -34,7 +34,7 @@
 
 
 
-# 📊 Weekly coding:
+# 📊 Weekly stats:
 <div align="">
 <!--START_SECTION:waka-->
 
