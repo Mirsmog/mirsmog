@@ -40,8 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   2 hrs 11 mins   ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   98.99 %
-Bash   1 min           ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   01.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
