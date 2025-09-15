@@ -40,9 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-conf   6 mins          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛   92.43 %
-JSON   0 secs          ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   05.73 %
-Bash   0 secs          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   01.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
