@@ -40,8 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C#      3 mins          ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛   82.98 %
-Other   0 secs          ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   17.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
