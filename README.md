@@ -8,7 +8,7 @@
  <h1 align=""><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hi there, I'm <a href="it'll be my portfolio site later" target="_blank">Timur</a></h1>
  
 #### <div align="" style="font-size:0.5em;">Just enjoy coding. My main focuses are frontend and backend development,<br/> with a keen interest in computer science. I love the process and welcome new challenges.</div>
-<span style="font-size:16px;">If you have an interesting project or idea, feel free to reach out—let’s create something cool together! 🚀</span>
+<span style="font-size:16px;">If you have an interesting project or idea, feel free to reach out-let’s create something cool together! 🚀</span>
 
 
 <br/>
