@@ -55,4 +55,4 @@ Tools change. Principles stay.
 If you're building something complex or interesting - let's talk.
 
 * Telegram: https://t.me/zwine02
-* Email: [tyuchiev.frontend@gmail.com](mailto:tyuchiev.frontend@gmail.com)
+* Email: [tanharka.tyuchiev4@gmail.com](mailto:tanharka.tyuchiev4@gmail.com)
